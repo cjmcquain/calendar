@@ -17,10 +17,12 @@ export default {
 </script>
 
 <style lang="scss">
-html, body {
-  height: 100%;
-}
+  html, body {
+    height: 100%;
+  }
+</style>
 
+<style lang="scss" scoped>
 #app {
   height: inherit;
   background: #6e6e6e;
